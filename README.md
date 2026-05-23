@@ -22,7 +22,7 @@ The scripts use built-in Windows DISM commands and require no additional softwar
 
 
 
-======================================
+
 
 1\. Disable WSL \& Hyper-V for VMware
 
@@ -60,7 +60,7 @@ Hyper-V compatibility problems
 
 
 
-=====================================
+
 
 2\. Enable WSL
 
@@ -114,8 +114,6 @@ Restart your computer after completion.
 
 Important Notes:
 
-================
-
 Disabling Hyper-V and related features may affect:
 
 
@@ -138,9 +136,7 @@ A system restart is required after running either script.
 
 
 
-Why Use These Scripts?
-
-=======================
+Why Use These Scripts????
 
 Simple one-click setup
 
